@@ -4,3 +4,4 @@ It is under GPL
 Ok , i lied.
 Can git track changes in file?test
 12
+It is a new line!
